@@ -19,7 +19,7 @@ Our project is developed based on [MMsegmentation](https://github.com/open-mmlab
 
 ## Pre-trained models
 Please download our pre-trained modle here and place it under */checkpoint* directory.
-- [TBFormer](https://pan.baidu.com/s/1d4gFyF7d7vMuL1yBvF5XZQ)(提取码：tbfm)
+- [TBFormer](https://pan.baidu.com/s/1d4gFyF7d7vMuL1yBvF5XZQ)(extraction code: tbfm)
 
 ## Demo
 - You can run a simple demo:
@@ -29,7 +29,7 @@ python demo/demo.py
 
 ## Synthesized dataset
 Our synthesized dataset can be downloaded here. Extraction code and decompression password can be obtained by contacting us via email.
-- [Mydata](https://pan.baidu.com/s/1CI_WL-BLbpdwS1sEp8FLbw)
+- [Mydata](https://pan.baidu.com/s/1CI_WL-BLbpdwS1sEp8FLbw)(extraction code: lbmd; decompression password: mdtvtlb22)
 
 ## Contact
 If you enounter any questions, please contact `lv-bin-bin@outlook.com`
